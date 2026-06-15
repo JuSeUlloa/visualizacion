@@ -20,7 +20,7 @@ Propósito: que el estudiante aplique de forma integrada los fundamentos de comu
 
 ``` text
 Roles:
-- Diseñador de visual
+- Diseñador visual
 - revisor/a de calidad 
 ```
 - [Juan Sebastian Ulloa] (https://github.com/JuSeUlloa)
@@ -28,7 +28,7 @@ Roles:
 ``` text
 Roles:
 - analista 
-- Diseñador de visual
+- Diseñador visual
 ```
 
 
