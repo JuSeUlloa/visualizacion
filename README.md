@@ -21,7 +21,7 @@ Propósito: que el estudiante aplique de forma integrada los fundamentos de comu
 ``` text
 Roles:
 - Diseñador visual
-- revisor/a de calidad 
+- revisor de calidad 
 ```
 - [Juan Sebastian Ulloa] (https://github.com/JuSeUlloa)
 
